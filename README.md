@@ -1,8 +1,6 @@
-# Registration-Form-and-login-form-with-Java
+# Registration Form and login form with Java
 
-# Jean Paul Elisa NIYOKWIZERWA 222015923
-
-This project was developed as part of the Advanced Programming with Java model exam in BIT (Business information technology) Level 2 at University of Rwanda, Gikondo Campus. It focuses on creating a secure user registration and authentication system using Java and MySQL. 
+This project focuses on creating a secure user registration and authentication system using Java and MySQL. 
 The application consists of four main files: `SignUp.java`, `LogIn.java`, `HomePage.java`, and `DBConnection.java`.
 
 ## Project Structure
